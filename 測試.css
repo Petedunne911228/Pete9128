@@ -1,0 +1,21 @@
+body{
+    background-image:url('dark.png');
+    background-color:#cccccc;
+
+
+}
+
+.container-intro{
+
+
+padding: 50px;
+color: white;
+font-style: oblique;
+}
+
+
+
+.container-body{
+    padding: 50px;
+    color: black;
+}
